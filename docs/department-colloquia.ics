@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ucsd-chem-seminars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Chem: Department Colloquia
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:1f13c30c90053ad0@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20260922T200000Z
+DTEND:20260922T210000Z
+SUMMARY:Professor Haiwang Yong: Visualizing Ultrafast Molecular Dynamics in
+  Space and Time with X-rays and Electrons
+LOCATION:PacHall 4500
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Haiwang Yong\nTitle: V
+ isualizing Ultrafast Molecular Dynamics in Space and Time with X-rays and 
+ Electrons\nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/sem
+ inars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:ac668ab2f43bdea8@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20260930T180000Z
+DTEND:20260930T190000Z
+SUMMARY:Professor Colleen Mchugh: Non-coding RNA regulation of human gene e
+ xpression
+LOCATION:Kavli Auditorium- Tata Hall
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Colleen Mchugh\nTitle:
+  Non-coding RNA regulation of human gene expression\nHosted by: Chemistry 
+ Department\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:a370d810db7d4d8d@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261002T180000Z
+DTEND:20261002T190000Z
+SUMMARY:Professor Kent Griffith: An NMR Crystallography Approach to Defects
+ \, Dynamics\, Distortions\, and Disorder in Emerging Materials
+LOCATION:Kavli Auditorium- Tata Hall
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Kent Griffith\nTitle: 
+ An NMR Crystallography Approach to Defects\, Dynamics\, Distortions\, and 
+ Disorder in Emerging Materials\nHosted by: Chemistry Department\nhttps://c
+ hemistry.ucsd.edu/seminars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:42ef0a86a173522e@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261005T180000Z
+DTEND:20261005T190000Z
+SUMMARY:Professor Jeffrey Rinehart (Department Colloquia)
+LOCATION:Kavli Auditorium- Tata Hall
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Jeffrey Rinehart\nTitl
+ e: tba\nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/semina
+ rs
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7c1ac95b89c23d@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261005T200000Z
+DTEND:20261005T210000Z
+SUMMARY:Professor Vicki Grassian: Chemistry and Impacts of Environmental In
+ terfaces
+LOCATION:Urey Room 2102
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Vicki Grassian\nTitle:
+  Chemistry and Impacts of Environmental Interfaces\nHosted by: Chemistry D
+ epartment\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:940de5a09a1dfa36@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261006T180000Z
+DTEND:20261006T190000Z
+SUMMARY:Professor Andrew Pun: Photochemistry Across Spin States for Photon 
+ Upconversion and Photocatalysis
+LOCATION:PacHall 4500
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Andrew Pun\nTitle: Pho
+ tochemistry Across Spin States for Photon Upconversion and Photocatalysis\
+ nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:be66e0a13f92a70b@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261007T180000Z
+DTEND:20261007T190000Z
+SUMMARY:Professor Andy Kummel: Chemistry and Processing for 3D Semiconducto
+ r Chip Stacking\, the key to lower power AI compute
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Andy Kummel\nTitle: Ch
+ emistry and Processing for 3D Semiconductor Chip Stacking\, the key to low
+ er power AI compute\nHosted by: Chemistry Department\nhttps://chemistry.uc
+ sd.edu/seminars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:51512e0acb167b82@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261009T180000Z
+DTEND:20261009T190000Z
+SUMMARY:Professor Akift Tezcan: Chemical and Computational Design of Metall
+ oenzymes
+LOCATION:Kavli Auditorium- Tata Hall
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Akift Tezcan\nTitle: C
+ hemical and Computational Design of Metalloenzymes\nHosted by: Chemistry D
+ epartment\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:bd04dea3bd11aaa1@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261016T180000Z
+DTEND:20261016T190000Z
+SUMMARY:Professor Alina Schimpf (Department Colloquia)
+LOCATION:Kavli Auditorium- Tata Hall
+DESCRIPTION:Department Colloquia\nSpeaker: Professor Alina Schimpf\nTitle: 
+ TBA\nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Department Colloquia
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+END:VCALENDAR

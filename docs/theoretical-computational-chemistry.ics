@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ucsd-chem-seminars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Chem: Theoretical & Computational Chemistry
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:1de20ea757a9d052@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20260929T180000Z
+DTEND:20260929T190000Z
+SUMMARY:Professor Hsing-Ta Chen (Theoretical & Computational Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Hsing
+ -Ta Chen\nTitle: TBA\nHosted by: Professor Joel Yuen-Zhou\nhttps://chemist
+ ry.ucsd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:94fa1302965e193f@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20270112T190000Z
+DTEND:20270112T200000Z
+SUMMARY:Professor Lee-Ping Wang (Theoretical & Computational Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Lee-P
+ ing Wang\nTitle: tba\nHosted by: Professor Michael Gilson\nhttps://chemist
+ ry.ucsd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+END:VCALENDAR

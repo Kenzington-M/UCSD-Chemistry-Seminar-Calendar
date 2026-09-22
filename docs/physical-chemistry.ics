@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ucsd-chem-seminars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Chem: Physical Chemistry
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ce8ce6b5c67e4c95@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261020T180000Z
+DTEND:20261020T190000Z
+SUMMARY:Professor Sarah King (Physical Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Physical Chemistry\nSpeaker: Professor Sarah King\nTitle: tba\n
+ Hosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Physical Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:e6c5379e497a735a@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261103T190000Z
+DTEND:20261103T200000Z
+SUMMARY:Professor Markus B Raschke (Physical Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Physical Chemistry\nSpeaker: Professor Markus B Raschke\nTitle:
+  tba\nHosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Physical Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:56b9c2eb05fde4bb@ucsd-chem-seminars
+DTSTAMP:20260922T193226Z
+LAST-MODIFIED:20260922T193226Z
+DTSTART:20261123T190000Z
+DTEND:20261123T200000Z
+SUMMARY:Professor Mikael Backlund (Physical Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Physical Chemistry\nSpeaker: Professor Mikael Backlund\nTitle: 
+ tba\nHosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Physical Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+END:VCALENDAR
