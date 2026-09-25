@@ -56,15 +56,17 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:42ef0a86a173522e@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20260925T132950Z
+LAST-MODIFIED:20260925T132950Z
 DTSTART:20261005T180000Z
 DTEND:20261005T190000Z
-SUMMARY:Professor Jeffrey Rinehart (Department Colloquia)
+SUMMARY:Professor Jeffrey Rinehart: Symmetry\, spin and the pursuit of chem
+ ical intuition in magnetic materials design
 LOCATION:Kavli Auditorium- Tata Hall
 DESCRIPTION:Department Colloquia\nSpeaker: Professor Jeffrey Rinehart\nTitl
- e: tba\nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/semina
- rs
+ e: Symmetry\, spin and the pursuit of chemical intuition in magnetic mater
+ ials design\nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/s
+ eminars
 CATEGORIES:Department Colloquia
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT

@@ -25,15 +25,17 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:1de20ea757a9d052@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20260925T132950Z
+LAST-MODIFIED:20260925T132950Z
 DTSTART:20260929T180000Z
 DTEND:20260929T190000Z
-SUMMARY:Professor Hsing-Ta Chen (Theoretical & Computational Chemistry)
+SUMMARY:Professor Hsing-Ta Chen: Navigating Various Disorders and Dynamics 
+ in Strongly Coupled Light-Matter Systems
 LOCATION:NSB Auditorium 1205
 DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Hsing
- -Ta Chen\nTitle: TBA\nHosted by: Professor Joel Yuen-Zhou\nhttps://chemist
- ry.ucsd.edu/seminars
+ -Ta Chen\nTitle: Navigating Various Disorders and Dynamics in Strongly Cou
+ pled Light-Matter Systems\nHosted by: Professor Joel Yuen-Zhou\nhttps://ch
+ emistry.ucsd.edu/seminars
 CATEGORIES:Theoretical & Computational Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
@@ -70,15 +72,17 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:42ef0a86a173522e@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20260925T132950Z
+LAST-MODIFIED:20260925T132950Z
 DTSTART:20261005T180000Z
 DTEND:20261005T190000Z
-SUMMARY:Professor Jeffrey Rinehart (Department Colloquia)
+SUMMARY:Professor Jeffrey Rinehart: Symmetry\, spin and the pursuit of chem
+ ical intuition in magnetic materials design
 LOCATION:Kavli Auditorium- Tata Hall
 DESCRIPTION:Department Colloquia\nSpeaker: Professor Jeffrey Rinehart\nTitl
- e: tba\nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/semina
- rs
+ e: Symmetry\, spin and the pursuit of chemical intuition in magnetic mater
+ ials design\nHosted by: Chemistry Department\nhttps://chemistry.ucsd.edu/s
+ eminars
 CATEGORIES:Department Colloquia
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
@@ -158,14 +162,15 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:ce8ce6b5c67e4c95@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20260925T132950Z
+LAST-MODIFIED:20260925T132950Z
 DTSTART:20261020T180000Z
 DTEND:20261020T190000Z
-SUMMARY:Professor Sarah King (Physical Chemistry)
+SUMMARY:Professor Sarah King: Locality as a Design Variable at Interfaces
 LOCATION:NSB Auditorium 1205
-DESCRIPTION:Physical Chemistry\nSpeaker: Professor Sarah King\nTitle: tba\n
- Hosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
+DESCRIPTION:Physical Chemistry\nSpeaker: Professor Sarah King\nTitle: Local
+ ity as a Design Variable at Interfaces\nHosted by: Professor Wei Xiong\nht
+ tps://chemistry.ucsd.edu/seminars
 CATEGORIES:Physical Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT

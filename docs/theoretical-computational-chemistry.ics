@@ -9,15 +9,17 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:1de20ea757a9d052@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20260925T132950Z
+LAST-MODIFIED:20260925T132950Z
 DTSTART:20260929T180000Z
 DTEND:20260929T190000Z
-SUMMARY:Professor Hsing-Ta Chen (Theoretical & Computational Chemistry)
+SUMMARY:Professor Hsing-Ta Chen: Navigating Various Disorders and Dynamics 
+ in Strongly Coupled Light-Matter Systems
 LOCATION:NSB Auditorium 1205
 DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Hsing
- -Ta Chen\nTitle: TBA\nHosted by: Professor Joel Yuen-Zhou\nhttps://chemist
- ry.ucsd.edu/seminars
+ -Ta Chen\nTitle: Navigating Various Disorders and Dynamics in Strongly Cou
+ pled Light-Matter Systems\nHosted by: Professor Joel Yuen-Zhou\nhttps://ch
+ emistry.ucsd.edu/seminars
 CATEGORIES:Theoretical & Computational Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT

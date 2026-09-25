@@ -9,14 +9,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ce8ce6b5c67e4c95@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20260925T132950Z
+LAST-MODIFIED:20260925T132950Z
 DTSTART:20261020T180000Z
 DTEND:20261020T190000Z
-SUMMARY:Professor Sarah King (Physical Chemistry)
+SUMMARY:Professor Sarah King: Locality as a Design Variable at Interfaces
 LOCATION:NSB Auditorium 1205
-DESCRIPTION:Physical Chemistry\nSpeaker: Professor Sarah King\nTitle: tba\n
- Hosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
+DESCRIPTION:Physical Chemistry\nSpeaker: Professor Sarah King\nTitle: Local
+ ity as a Design Variable at Interfaces\nHosted by: Professor Wei Xiong\nht
+ tps://chemistry.ucsd.edu/seminars
 CATEGORIES:Physical Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
