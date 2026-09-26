@@ -203,6 +203,19 @@ CATEGORIES:Inorganic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
+UID:4b3c4c1bd6dda06c@ucsd-chem-seminars
+DTSTAMP:20260926T132641Z
+LAST-MODIFIED:20260926T132641Z
+DTSTART:20261102T190000Z
+DTEND:20261102T200000Z
+SUMMARY:Professor Hao Xu (Organic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Organic Chemistry\nSpeaker: Professor Hao Xu\nTitle: tba\nHoste
+ d by: Professor Kamil Godula\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Organic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
 UID:e6c5379e497a735a@ucsd-chem-seminars
 DTSTAMP:20260922T193226Z
 LAST-MODIFIED:20260922T193226Z
