@@ -176,15 +176,16 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:06ba3f3779a2062e@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20261002T133316Z
+LAST-MODIFIED:20261002T133316Z
 DTSTART:20261023T180000Z
 DTEND:20261023T190000Z
-SUMMARY:Professor Robert Waymouth (Inorganic Chemistry)
+SUMMARY:Professor Robert Waymouth: New catalyst designs for electrocatalysi
+ s: Energy conversion and storage
 LOCATION:PacHall 4500
 DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Robert Waymouth\nTitle:
-  tba\nHosted by: Professor Joseph O'Connor\nhttps://chemistry.ucsd.edu/sem
- inars
+  New catalyst designs for electrocatalysis: Energy conversion and storage\
+ nHosted by: Professor Joseph O'Connor\nhttps://chemistry.ucsd.edu/seminars
 CATEGORIES:Inorganic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
