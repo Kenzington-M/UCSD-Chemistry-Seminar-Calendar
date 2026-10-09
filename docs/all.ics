@@ -191,15 +191,16 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:fc76ab664a5eb224@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20261009T133544Z
+LAST-MODIFIED:20261009T133544Z
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
-SUMMARY:Professor Ioannis Spanopoulos (Inorganic Chemistry)
+SUMMARY:Professor Ioannis Spanopoulos: When Pore and Fulle met Semi: A Tale
+  of Material Architectonics
 LOCATION:PacHall 4500
 DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Ioannis Spanopoulos\nTi
- tle: tba\nHosted by: Professor Kent Griffith\nhttps://chemistry.ucsd.edu/s
- eminars
+ tle: When Pore and Fulle met Semi: A Tale of Material Architectonics\nHost
+ ed by: Professor Kent Griffith\nhttps://chemistry.ucsd.edu/seminars
 CATEGORIES:Inorganic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
