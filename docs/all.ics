@@ -219,15 +219,17 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:e6c5379e497a735a@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20261015T135347Z
+LAST-MODIFIED:20261015T135347Z
 DTSTART:20261103T190000Z
 DTEND:20261103T200000Z
-SUMMARY:Professor Markus B Raschke (Physical Chemistry)
+SUMMARY:Professor Markus B Raschke (Materials Chemistry\,Physical Chemistry
+ )
 LOCATION:PacHall 4500
-DESCRIPTION:Physical Chemistry\nSpeaker: Professor Markus B Raschke\nTitle:
-  tba\nHosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
-CATEGORIES:Physical Chemistry
+DESCRIPTION:Materials Chemistry\,Physical Chemistry\nSpeaker: Professor Mar
+ kus B Raschke\nTitle: tba\nHosted by: Professor Wei Xiong\nhttps://chemist
+ ry.ucsd.edu/seminars
+CATEGORIES:Materials Chemistry\,Physical Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT

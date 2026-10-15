@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ucsd-chem-seminars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Chem: Materials Chemistry\,Physical Chemistry
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e6c5379e497a735a@ucsd-chem-seminars
+DTSTAMP:20261015T135347Z
+LAST-MODIFIED:20261015T135347Z
+DTSTART:20261103T190000Z
+DTEND:20261103T200000Z
+SUMMARY:Professor Markus B Raschke (Materials Chemistry\,Physical Chemistry
+ )
+LOCATION:PacHall 4500
+DESCRIPTION:Materials Chemistry\,Physical Chemistry\nSpeaker: Professor Mar
+ kus B Raschke\nTitle: tba\nHosted by: Professor Wei Xiong\nhttps://chemist
+ ry.ucsd.edu/seminars
+CATEGORIES:Materials Chemistry\,Physical Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+END:VCALENDAR
