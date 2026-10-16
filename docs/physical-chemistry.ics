@@ -23,14 +23,29 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:56b9c2eb05fde4bb@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20261016T135139Z
+LAST-MODIFIED:20261016T135139Z
 DTSTART:20261123T190000Z
 DTEND:20261123T200000Z
-SUMMARY:Professor Mikael Backlund (Physical Chemistry)
+SUMMARY:Professor Mikael Backlund: Quantum metrology meets chemical microsc
+ opy
 LOCATION:PacHall 4500
 DESCRIPTION:Physical Chemistry\nSpeaker: Professor Mikael Backlund\nTitle: 
- tba\nHosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
+ Quantum metrology meets chemical microscopy\nHosted by: Professor Wei Xion
+ g\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Physical Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:80b67f52a7b9c67e@ucsd-chem-seminars
+DTSTAMP:20261016T135139Z
+LAST-MODIFIED:20261016T135139Z
+DTSTART:20270413T180000Z
+DTEND:20270413T190000Z
+SUMMARY:Professor Youn Jue Bae (Physical Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Physical Chemistry\nSpeaker: Professor Youn Jue Bae\nTitle: tba
+ \nHosted by: Professor Shaowei Li\nhttps://chemistry.ucsd.edu/seminars
 CATEGORIES:Physical Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT

@@ -37,4 +37,63 @@ DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Lee-P
 CATEGORIES:Theoretical & Computational Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
+BEGIN:VEVENT
+UID:7e6523c79159d8de@ucsd-chem-seminars
+DTSTAMP:20261016T135139Z
+LAST-MODIFIED:20261016T135139Z
+DTSTART:20270202T190000Z
+DTEND:20270202T200000Z
+SUMMARY:Professor Laura Gagliardi (Theoretical & Computational Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Laura
+  Gagliardi\nTitle: tba\nHosted by: Professor Joel Yuen-Zhou\nhttps://chemi
+ stry.ucsd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:5df6652cd86d13fa@ucsd-chem-seminars
+DTSTAMP:20261016T135139Z
+LAST-MODIFIED:20261016T135139Z
+DTSTART:20270223T190000Z
+DTEND:20270223T200000Z
+SUMMARY:Professor Hua Guo: Adiabatic and Nonadiabatic Dynamics of H-atom Sc
+ attering from Surfaces
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Hua G
+ uo\nTitle: Adiabatic and Nonadiabatic Dynamics of H-atom Scattering from S
+ urfaces\nHosted by: Professor Shaowei Li\nhttps://chemistry.ucsd.edu/semin
+ ars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:50519cc01ae1d215@ucsd-chem-seminars
+DTSTAMP:20261016T135139Z
+LAST-MODIFIED:20261016T135139Z
+DTSTART:20270302T190000Z
+DTEND:20270302T200000Z
+SUMMARY:Professor Eric Neuscamman (Theoretical & Computational Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Eric 
+ Neuscamman\nTitle: tba\nHosted by: Professor Joel Yuen-Zhou\nhttps://chemi
+ stry.ucsd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:8ae64e71635f11dd@ucsd-chem-seminars
+DTSTAMP:20261016T135139Z
+LAST-MODIFIED:20261016T135139Z
+DTSTART:20270309T190000Z
+DTEND:20270309T200000Z
+SUMMARY:Professor Alán Aspuru-Guzik (Theoretical & Computational Chemistry
+ )
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Alán
+  Aspuru-Guzik\nTitle: tba\nHosted by: Professor Joel Yuen-Zhou\nhttps://ch
+ emistry.ucsd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
 END:VCALENDAR
