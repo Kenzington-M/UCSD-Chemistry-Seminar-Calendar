@@ -96,4 +96,18 @@ DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Alán
 CATEGORIES:Theoretical & Computational Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
+BEGIN:VEVENT
+UID:b73fd979078196c1@ucsd-chem-seminars
+DTSTAMP:20261017T134108Z
+LAST-MODIFIED:20261017T134108Z
+DTSTART:20270406T180000Z
+DTEND:20270406T190000Z
+SUMMARY:Professor Sandeep Sharma (Theoretical & Computational Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Sande
+ ep Sharma\nTitle: tba\nHosted by: Professor Joel Yuen-Zhou\nhttps://chemis
+ try.ucsd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
 END:VCALENDAR
