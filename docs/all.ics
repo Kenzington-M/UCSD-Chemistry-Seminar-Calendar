@@ -393,4 +393,18 @@ DESCRIPTION:Physical Chemistry\nSpeaker: Professor Youn Jue Bae\nTitle: tba
 CATEGORIES:Physical Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
+BEGIN:VEVENT
+UID:daeb347487af2fbb@ucsd-chem-seminars
+DTSTAMP:20261021T135242Z
+LAST-MODIFIED:20261021T135242Z
+DTSTART:20270420T180000Z
+DTEND:20270420T190000Z
+SUMMARY:Professor Jianzhong Wu (Theoretical & Computational Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Jianz
+ hong Wu\nTitle: tba\nHosted by: Professor Joel Yuen-Zhou\nhttps://chemistr
+ y.ucsd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
 END:VCALENDAR
