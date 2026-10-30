@@ -9,8 +9,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:e6c5379e497a735a@ucsd-chem-seminars
-DTSTAMP:20261016T135139Z
-LAST-MODIFIED:20261016T135139Z
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
 DTSTART:20261103T190000Z
 DTEND:20261103T200000Z
 SUMMARY:Professor Markus B Raschke: Quantum Vibrational Nano-Imaging and -S
@@ -18,7 +18,8 @@ SUMMARY:Professor Markus B Raschke: Quantum Vibrational Nano-Imaging and -S
 LOCATION:PacHall 4500
 DESCRIPTION:Materials Chemistry\,Physical Chemistry\nSpeaker: Professor Mar
  kus B Raschke\nTitle: Quantum Vibrational Nano-Imaging and -Spectroscopy\n
- Hosted by: Professor Wei Xiong\nhttps://chemistry.ucsd.edu/seminars
+ Hosted by: Professor Wei Xiong Abstract: Professor_Markus_B_Raschke_202611
+ 03.pdf\nhttps://chemistry.ucsd.edu/seminars
 CATEGORIES:Materials Chemistry\,Physical Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT

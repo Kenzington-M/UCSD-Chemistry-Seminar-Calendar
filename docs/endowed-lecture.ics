@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ucsd-chem-seminars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Chem: Endowed Lecture
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:714a9738bb42b51c@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+SUMMARY:Professor Paul Wennberg: The Orbiting Carbon Observatory\, Fraunhof
+ er\, and the Fluorescence of Earth's Biosphere
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Endowed Lecture\nSpeaker: Professor Paul Wennberg\nTitle: The O
+ rbiting Carbon Observatory\, Fraunhofer\, and the Fluorescence of Earth's 
+ Biosphere\nHosted by: Professor Jonathan Slade Abstract: Professor_Paul_We
+ nnberg_20261113.pdf\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Endowed Lecture
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+END:VCALENDAR

@@ -19,6 +19,16 @@
     "uid": "0a7c1ac95b89c23d@ucsd-chem-seminars",
     "updated": "20260922T193226Z"
   },
+  "0e00c07815dfed98@ucsd-chem-seminars": {
+    "host": "Professor Joshua Figueroa",
+    "location": "PacHall 4500",
+    "speaker": "Professor Gwen Bailey",
+    "start": "2027-01-08T11:00:00-08:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "0e00c07815dfed98@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
   "1de20ea757a9d052@ucsd-chem-seminars": {
     "host": "Professor Joel Yuen-Zhou",
     "location": "NSB Auditorium 1205",
@@ -39,6 +49,26 @@
     "uid": "1f13c30c90053ad0@ucsd-chem-seminars",
     "updated": "20260922T193226Z"
   },
+  "36e2882eb6449474@ucsd-chem-seminars": {
+    "host": "Professor Julia Stauber",
+    "location": "PacHall 4500",
+    "speaker": "Professor Dave Britt",
+    "start": "2027-02-12T11:00:00-08:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "36e2882eb6449474@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
+  "3f44f2b662a5976d@ucsd-chem-seminars": {
+    "host": "Professor Julia Stauber",
+    "location": "PacHall 4500",
+    "speaker": "Professor Bryan Hunter",
+    "start": "2027-04-16T11:00:00-07:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "3f44f2b662a5976d@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
   "42ef0a86a173522e@ucsd-chem-seminars": {
     "host": "Chemistry Department",
     "location": "Kavli Auditorium- Tata Hall",
@@ -50,14 +80,24 @@
     "updated": "20260925T132950Z"
   },
   "4b3c4c1bd6dda06c@ucsd-chem-seminars": {
-    "host": "Professor Kamil Godula",
+    "host": "Professor Kamil Godula Abstract: Professor_Hao_Xu_20261102.pdf",
     "location": "PacHall 4500",
     "speaker": "Professor Hao Xu",
     "start": "2026-11-02T11:00:00-08:00",
     "title": "Searching for New Reactivity: Merging Enzymatic Catalysis with Iron Catalysis for Highly Stereoselective Glycosaminoglycan Assembly",
     "type": "Organic Chemistry",
     "uid": "4b3c4c1bd6dda06c@ucsd-chem-seminars",
-    "updated": "20261016T135139Z"
+    "updated": "20261030T183813Z"
+  },
+  "4fdc1772db9f685a@ucsd-chem-seminars": {
+    "host": "Professor Shaowei Li",
+    "location": "NSB Auditorium 1205",
+    "speaker": "Professor Leah Dodson",
+    "start": "2027-04-27T11:00:00-07:00",
+    "title": "tba",
+    "type": "Analytical & Atmospheric Chemistry,Physical Chemistry,Theoretical & Computational Chemistry",
+    "uid": "4fdc1772db9f685a@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
   },
   "50519cc01ae1d215@ucsd-chem-seminars": {
     "host": "Professor Joel Yuen-Zhou",
@@ -79,6 +119,26 @@
     "uid": "51512e0acb167b82@ucsd-chem-seminars",
     "updated": "20260922T193226Z"
   },
+  "539e18f686fe4f3c@ucsd-chem-seminars": {
+    "host": "Professor Joshua Figueroa",
+    "location": "PacHall 4500",
+    "speaker": "Professor Josh Buss",
+    "start": "2027-02-26T11:00:00-08:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "539e18f686fe4f3c@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
+  "539e5c90e69e8b3f@ucsd-chem-seminars": {
+    "host": "Professor Nathan Romero",
+    "location": "NSB Auditorium 1205",
+    "speaker": "Professor Aaron Teator",
+    "start": "2027-02-22T11:00:00-08:00",
+    "title": "tba",
+    "type": "Organic Chemistry",
+    "uid": "539e5c90e69e8b3f@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
   "56b9c2eb05fde4bb@ucsd-chem-seminars": {
     "host": "Professor Wei Xiong",
     "location": "PacHall 4500",
@@ -99,6 +159,16 @@
     "uid": "5df6652cd86d13fa@ucsd-chem-seminars",
     "updated": "20261016T135139Z"
   },
+  "63ad1a6240ed00d6@ucsd-chem-seminars": {
+    "host": "Professor Alina Schimpf",
+    "location": "PacHall 4500",
+    "speaker": "Professor Martin Kirk",
+    "start": "2027-03-05T11:00:00-08:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "63ad1a6240ed00d6@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
   "6dba819428ec949d@ucsd-chem-seminars": {
     "host": "Professor Nathan Romero",
     "location": "NSB Auditorium 1205",
@@ -108,6 +178,16 @@
     "type": "Organic Chemistry",
     "uid": "6dba819428ec949d@ucsd-chem-seminars",
     "updated": "20261026T192054Z"
+  },
+  "714a9738bb42b51c@ucsd-chem-seminars": {
+    "host": "Professor Jonathan Slade Abstract: Professor_Paul_Wennberg_20261113.pdf",
+    "location": "NSB Auditorium 1205",
+    "speaker": "Professor Paul Wennberg",
+    "start": "2026-11-13T15:00:00-08:00",
+    "title": "The Orbiting Carbon Observatory, Fraunhofer, and the Fluorescence of Earth's Biosphere",
+    "type": "Endowed Lecture",
+    "uid": "714a9738bb42b51c@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
   },
   "7bed741df6d17ecb@ucsd-chem-seminars": {
     "host": "Professor Jeffrey Rinehart",
@@ -179,6 +259,16 @@
     "uid": "a370d810db7d4d8d@ucsd-chem-seminars",
     "updated": "20260922T193226Z"
   },
+  "a851348e9231799c@ucsd-chem-seminars": {
+    "host": "Professor Guy Bertrand",
+    "location": "PacHall 4500",
+    "speaker": "Professor Ben List",
+    "start": "2027-02-18T11:00:00-08:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "a851348e9231799c@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
   "ac668ab2f43bdea8@ucsd-chem-seminars": {
     "host": "Chemistry Department",
     "location": "Kavli Auditorium- Tata Hall",
@@ -188,6 +278,26 @@
     "type": "Department Colloquia",
     "uid": "ac668ab2f43bdea8@ucsd-chem-seminars",
     "updated": "20260922T193226Z"
+  },
+  "b3d9fb22c991bb27@ucsd-chem-seminars": {
+    "host": "Student Invited",
+    "location": "PacHall 4500",
+    "speaker": "Professor Abby Doyle",
+    "start": "2027-04-23T11:00:00-07:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "b3d9fb22c991bb27@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
+  },
+  "b614b6f67a57730f@ucsd-chem-seminars": {
+    "host": "Professor Valerie Schmidt",
+    "location": "PacHall 4500",
+    "speaker": "Professor Jonathan Kuo",
+    "start": "2027-05-28T11:00:00-07:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "b614b6f67a57730f@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
   },
   "b73fd979078196c1@ucsd-chem-seminars": {
     "host": "Professor Joel Yuen-Zhou",
@@ -250,33 +360,53 @@
     "updated": "20261021T135242Z"
   },
   "e6c5379e497a735a@ucsd-chem-seminars": {
-    "host": "Professor Wei Xiong",
+    "host": "Professor Wei Xiong Abstract: Professor_Markus_B_Raschke_20261103.pdf",
     "location": "PacHall 4500",
     "speaker": "Professor Markus B Raschke",
     "start": "2026-11-03T11:00:00-08:00",
     "title": "Quantum Vibrational Nano-Imaging and -Spectroscopy",
     "type": "Materials Chemistry,Physical Chemistry",
     "uid": "e6c5379e497a735a@ucsd-chem-seminars",
-    "updated": "20261016T135139Z"
+    "updated": "20261030T183813Z"
+  },
+  "ea79d907188f4cfc@ucsd-chem-seminars": {
+    "host": "Student Invited",
+    "location": "PacHall 4500",
+    "speaker": "Professor Geoffrey Coates",
+    "start": "2027-01-22T11:00:00-08:00",
+    "title": "tba",
+    "type": "Inorganic Chemistry",
+    "uid": "ea79d907188f4cfc@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
   },
   "f2aa580dfe25a0bf@ucsd-chem-seminars": {
-    "host": "Professor Joshua Figueroa",
+    "host": "Professor Joshua Figueroa Abstract: Professor_Brandon_Barnett_20261106.pdf",
     "location": "PacHall 4500",
     "speaker": "Professor Brandon Barnett",
     "start": "2026-11-06T11:00:00-08:00",
     "title": "Non-Heme Metalloenzyme Mimicry through Confinement",
     "type": "Inorganic Chemistry",
     "uid": "f2aa580dfe25a0bf@ucsd-chem-seminars",
-    "updated": "20261016T135139Z"
+    "updated": "20261030T183813Z"
   },
   "fc76ab664a5eb224@ucsd-chem-seminars": {
-    "host": "Professor Kent Griffith",
+    "host": "Professor Kent Griffith Abstract: Professor_Ioannis_Spanopoulos_20261030.pdf",
     "location": "PacHall 4500",
     "speaker": "Professor Ioannis Spanopoulos",
     "start": "2026-10-30T11:00:00-07:00",
     "title": "When Pore and Fulle met Semi: A Tale of Material Architectonics",
     "type": "Inorganic Chemistry",
     "uid": "fc76ab664a5eb224@ucsd-chem-seminars",
-    "updated": "20261009T133544Z"
+    "updated": "20261030T183813Z"
+  },
+  "ffbb155c52a3eb5a@ucsd-chem-seminars": {
+    "host": "Professor Wei Xiong",
+    "location": "NSB Auditorium 1205",
+    "speaker": "Professor Eric Potma",
+    "start": "2027-05-04T11:00:00-07:00",
+    "title": "tba",
+    "type": "Physical Chemistry",
+    "uid": "ffbb155c52a3eb5a@ucsd-chem-seminars",
+    "updated": "20261030T183813Z"
   }
 }

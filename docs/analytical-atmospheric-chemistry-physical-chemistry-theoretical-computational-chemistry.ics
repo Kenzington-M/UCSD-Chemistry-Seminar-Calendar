@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ucsd-chem-seminars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Chem: Analytical & Atmospheric Chemistry\,Physical Chemis
+ try\,Theoretical & Computational Chemistry
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:4fdc1772db9f685a@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270427T180000Z
+DTEND:20270427T190000Z
+SUMMARY:Professor Leah Dodson (Analytical & Atmospheric Chemistry\,Physical
+  Chemistry\,Theoretical & Computational Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Analytical & Atmospheric Chemistry\,Physical Chemistry\,Theoret
+ ical & Computational Chemistry\nSpeaker: Professor Leah Dodson\nTitle: tba
+ \nHosted by: Professor Shaowei Li\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Analytical & Atmospheric Chemistry\,Physical Chemistry\,Theoreti
+ cal & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+END:VCALENDAR

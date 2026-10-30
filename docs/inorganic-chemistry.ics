@@ -24,8 +24,8 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:fc76ab664a5eb224@ucsd-chem-seminars
-DTSTAMP:20261009T133544Z
-LAST-MODIFIED:20261009T133544Z
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
 SUMMARY:Professor Ioannis Spanopoulos: When Pore and Fulle met Semi: A Tale
@@ -33,14 +33,15 @@ SUMMARY:Professor Ioannis Spanopoulos: When Pore and Fulle met Semi: A Tale
 LOCATION:PacHall 4500
 DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Ioannis Spanopoulos\nTi
  tle: When Pore and Fulle met Semi: A Tale of Material Architectonics\nHost
- ed by: Professor Kent Griffith\nhttps://chemistry.ucsd.edu/seminars
+ ed by: Professor Kent Griffith Abstract: Professor_Ioannis_Spanopoulos_202
+ 61030.pdf\nhttps://chemistry.ucsd.edu/seminars
 CATEGORIES:Inorganic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:f2aa580dfe25a0bf@ucsd-chem-seminars
-DTSTAMP:20261016T135139Z
-LAST-MODIFIED:20261016T135139Z
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
 DTSTART:20261106T190000Z
 DTEND:20261106T200000Z
 SUMMARY:Professor Brandon Barnett: Non-Heme Metalloenzyme Mimicry through C
@@ -48,7 +49,8 @@ SUMMARY:Professor Brandon Barnett: Non-Heme Metalloenzyme Mimicry through C
 LOCATION:PacHall 4500
 DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Brandon Barnett\nTitle:
   Non-Heme Metalloenzyme Mimicry through Confinement\nHosted by: Professor 
- Joshua Figueroa\nhttps://chemistry.ucsd.edu/seminars
+ Joshua Figueroa Abstract: Professor_Brandon_Barnett_20261106.pdf\nhttps://
+ chemistry.ucsd.edu/seminars
 CATEGORIES:Inorganic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
@@ -75,6 +77,125 @@ SUMMARY:Professor Selly Demir (Inorganic Chemistry)
 LOCATION:PacHall 4500
 DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Selly Demir\nTitle: tba
  \nHosted by: Professor Jeffrey Rinehart\nhttps://chemistry.ucsd.edu/semina
+ rs
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:0e00c07815dfed98@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270108T190000Z
+DTEND:20270108T200000Z
+SUMMARY:Professor Gwen Bailey (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Gwen Bailey\nTitle: tba
+ \nHosted by: Professor Joshua Figueroa\nhttps://chemistry.ucsd.edu/seminar
+ s
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:ea79d907188f4cfc@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270122T190000Z
+DTEND:20270122T200000Z
+SUMMARY:Professor Geoffrey Coates (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Geoffrey Coates\nTitle:
+  tba\nHosted by: Student Invited\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:36e2882eb6449474@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270212T190000Z
+DTEND:20270212T200000Z
+SUMMARY:Professor Dave Britt (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Dave Britt\nTitle: tba\
+ nHosted by: Professor Julia Stauber\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:a851348e9231799c@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270218T190000Z
+DTEND:20270218T200000Z
+SUMMARY:Professor Ben List (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Ben List\nTitle: tba\nH
+ osted by: Professor Guy Bertrand\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:539e18f686fe4f3c@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270226T190000Z
+DTEND:20270226T200000Z
+SUMMARY:Professor Josh Buss (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Josh Buss\nTitle: tba\n
+ Hosted by: Professor Joshua Figueroa\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:63ad1a6240ed00d6@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270305T190000Z
+DTEND:20270305T200000Z
+SUMMARY:Professor Martin Kirk (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Martin Kirk\nTitle: tba
+ \nHosted by: Professor Alina Schimpf\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:3f44f2b662a5976d@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270416T180000Z
+DTEND:20270416T190000Z
+SUMMARY:Professor Bryan Hunter (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Bryan Hunter\nTitle: tb
+ a\nHosted by: Professor Julia Stauber\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:b3d9fb22c991bb27@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270423T180000Z
+DTEND:20270423T190000Z
+SUMMARY:Professor Abby Doyle (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Abby Doyle\nTitle: tba\
+ nHosted by: Student Invited\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Inorganic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:b614b6f67a57730f@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270528T180000Z
+DTEND:20270528T190000Z
+SUMMARY:Professor Jonathan Kuo (Inorganic Chemistry)
+LOCATION:PacHall 4500
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Jonathan Kuo\nTitle: tb
+ a\nHosted by: Professor Valerie Schmidt\nhttps://chemistry.ucsd.edu/semina
  rs
 CATEGORIES:Inorganic Chemistry
 URL:https://chemistry.ucsd.edu/seminars

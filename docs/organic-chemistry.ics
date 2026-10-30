@@ -9,8 +9,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:4b3c4c1bd6dda06c@ucsd-chem-seminars
-DTSTAMP:20261016T135139Z
-LAST-MODIFIED:20261016T135139Z
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
 DTSTART:20261102T190000Z
 DTEND:20261102T200000Z
 SUMMARY:Professor Hao Xu: Searching for New Reactivity: Merging Enzymatic C
@@ -20,7 +20,8 @@ LOCATION:PacHall 4500
 DESCRIPTION:Organic Chemistry\nSpeaker: Professor Hao Xu\nTitle: Searching 
  for New Reactivity: Merging Enzymatic Catalysis with Iron Catalysis for Hi
  ghly Stereoselective Glycosaminoglycan Assembly\nHosted by: Professor Kami
- l Godula\nhttps://chemistry.ucsd.edu/seminars
+ l Godula Abstract: Professor_Hao_Xu_20261102.pdf\nhttps://chemistry.ucsd.e
+ du/seminars
 CATEGORIES:Organic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
@@ -34,6 +35,19 @@ SUMMARY:Professor Brooks Abel (Organic Chemistry)
 LOCATION:NSB Auditorium 1205
 DESCRIPTION:Organic Chemistry\nSpeaker: Professor Brooks Abel\nTitle: tba\n
  Hosted by: Professor Nathan Romero\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Organic Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
+UID:539e5c90e69e8b3f@ucsd-chem-seminars
+DTSTAMP:20261030T183813Z
+LAST-MODIFIED:20261030T183813Z
+DTSTART:20270222T190000Z
+DTEND:20270222T200000Z
+SUMMARY:Professor Aaron Teator (Organic Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Organic Chemistry\nSpeaker: Professor Aaron Teator\nTitle: tba\
+ nHosted by: Professor Nathan Romero\nhttps://chemistry.ucsd.edu/seminars
 CATEGORIES:Organic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
