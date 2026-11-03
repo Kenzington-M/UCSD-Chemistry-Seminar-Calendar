@@ -25,12 +25,12 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:94fa1302965e193f@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20261103T200726Z
+LAST-MODIFIED:20261103T200726Z
 DTSTART:20270112T190000Z
 DTEND:20270112T200000Z
 SUMMARY:Professor Lee-Ping Wang (Theoretical & Computational Chemistry)
-LOCATION:PacHall 4500
+LOCATION:NSB Auditorium 1205
 DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Lee-P
  ing Wang\nTitle: tba\nHosted by: Professor Michael Gilson\nhttps://chemist
  ry.ucsd.edu/seminars
