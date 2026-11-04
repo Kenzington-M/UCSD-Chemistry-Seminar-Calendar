@@ -257,14 +257,17 @@ URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:bf05045d0294a3eb@ucsd-chem-seminars
-DTSTAMP:20260922T193226Z
-LAST-MODIFIED:20260922T193226Z
+DTSTAMP:20261104T202607Z
+LAST-MODIFIED:20261104T202607Z
 DTSTART:20261113T190000Z
 DTEND:20261113T200000Z
-SUMMARY:Professor Jeff Lopez (Inorganic Chemistry)
+SUMMARY:Professor Jeff Lopez: Controlling Interfacial Chemistry and Structu
+ ral Disorder for Sustainable Battery Manufacturing
 LOCATION:PacHall 4500
-DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Jeff Lopez\nTitle: tba\
- nHosted by: Professor Kent Griffith\nhttps://chemistry.ucsd.edu/seminars
+DESCRIPTION:Inorganic Chemistry\nSpeaker: Professor Jeff Lopez\nTitle: Cont
+ rolling Interfacial Chemistry and Structural Disorder for Sustainable Batt
+ ery Manufacturing\nHosted by: Professor Kent Griffith\nhttps://chemistry.u
+ csd.edu/seminars
 CATEGORIES:Inorganic Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
