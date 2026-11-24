@@ -97,6 +97,20 @@ CATEGORIES:Theoretical & Computational Chemistry
 URL:https://chemistry.ucsd.edu/seminars
 END:VEVENT
 BEGIN:VEVENT
+UID:a3d1aab6d9c82349@ucsd-chem-seminars
+DTSTAMP:20261124T005333Z
+LAST-MODIFIED:20261124T005333Z
+DTSTART:20270330T180000Z
+DTEND:20270330T190000Z
+SUMMARY:Professor Niri.govind (Theoretical & Computational Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Theoretical & Computational Chemistry\nSpeaker: Professor Niri.
+ govind\nTitle: tba\nHosted by: Professor Haiwang Yong\nhttps://chemistry.u
+ csd.edu/seminars
+CATEGORIES:Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+BEGIN:VEVENT
 UID:b73fd979078196c1@ucsd-chem-seminars
 DTSTAMP:20261017T134108Z
 LAST-MODIFIED:20261017T134108Z

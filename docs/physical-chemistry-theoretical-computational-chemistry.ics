@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ucsd-chem-seminars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Chem: Physical Chemistry\,Theoretical & Computational Che
+ mistry
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:937bb241ef34b893@ucsd-chem-seminars
+DTSTAMP:20261124T005333Z
+LAST-MODIFIED:20261124T005333Z
+DTSTART:20270525T180000Z
+DTEND:20270525T190000Z
+SUMMARY:Professor Kelly Gaffney (Physical Chemistry\,Theoretical & Computat
+ ional Chemistry)
+LOCATION:NSB Auditorium 1205
+DESCRIPTION:Physical Chemistry\,Theoretical & Computational Chemistry\nSpea
+ ker: Professor Kelly Gaffney\nTitle: tba\nHosted by: Professor Haiwang Yon
+ g\nhttps://chemistry.ucsd.edu/seminars
+CATEGORIES:Physical Chemistry\,Theoretical & Computational Chemistry
+URL:https://chemistry.ucsd.edu/seminars
+END:VEVENT
+END:VCALENDAR

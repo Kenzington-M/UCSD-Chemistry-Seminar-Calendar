@@ -229,6 +229,16 @@
     "uid": "8ae64e71635f11dd@ucsd-chem-seminars",
     "updated": "20261016T135139Z"
   },
+  "937bb241ef34b893@ucsd-chem-seminars": {
+    "host": "Professor Haiwang Yong",
+    "location": "NSB Auditorium 1205",
+    "speaker": "Professor Kelly Gaffney",
+    "start": "2027-05-25T11:00:00-07:00",
+    "title": "tba",
+    "type": "Physical Chemistry,Theoretical & Computational Chemistry",
+    "uid": "937bb241ef34b893@ucsd-chem-seminars",
+    "updated": "20261124T005333Z"
+  },
   "940de5a09a1dfa36@ucsd-chem-seminars": {
     "host": "Chemistry Department",
     "location": "PacHall 4500",
@@ -258,6 +268,16 @@
     "type": "Department Colloquia",
     "uid": "a370d810db7d4d8d@ucsd-chem-seminars",
     "updated": "20260922T193226Z"
+  },
+  "a3d1aab6d9c82349@ucsd-chem-seminars": {
+    "host": "Professor Haiwang Yong",
+    "location": "NSB Auditorium 1205",
+    "speaker": "Professor Niri.govind",
+    "start": "2027-03-30T11:00:00-07:00",
+    "title": "tba",
+    "type": "Theoretical & Computational Chemistry",
+    "uid": "a3d1aab6d9c82349@ucsd-chem-seminars",
+    "updated": "20261124T005333Z"
   },
   "a851348e9231799c@ucsd-chem-seminars": {
     "host": "Professor Guy Bertrand",
